@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title {
+    text-align: center;
+}
+.login {
+    font-size: 32px;
+}
+
+.inputArea {
+    width: 400px;
+}
+
+#idValue {
+    width: 250px;
+    height: 30px;
+}
+
+#pwValue {
+    width: 250px;
+    height: 30px;
+}
+#loginButton{
+    margin-top: 10px;
+    margin: 10px 10px;
+    width: 400px;
+    height: 50px;
+    color: #fff;
+    background: #22741C;
+    border-radius: 20px;
+    font-size: 20px;
+}
